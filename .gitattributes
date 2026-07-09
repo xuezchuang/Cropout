@@ -1,0 +1,19 @@
+* text=auto
+
+*.cs text eol=crlf
+*.cpp text eol=crlf
+*.h text eol=crlf
+*.ini text eol=crlf
+*.uproject text eol=crlf
+*.uplugin text eol=crlf
+*.ps1 text eol=crlf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+
+*.uasset binary
+*.umap binary
+*.ubulk binary
+*.uexp binary
+*.png binary
+*.ico binary

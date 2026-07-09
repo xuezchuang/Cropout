@@ -1,0 +1,29 @@
+# Unreal generated output
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+
+# Perforce-owned assets
+/Build/
+/Content/
+/CropoutSampleProject.png
+/Plugins/*/Content/
+/Plugins/*/Resources/
+
+# Local editor/user state
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build/debug byproducts
+*.log
+*.tmp
+*.bak
+*.pdb
+*.obj
+*.ilk
+*.exe
+*.dll
